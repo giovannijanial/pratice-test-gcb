@@ -1,4 +1,4 @@
-const runChallange03 = <T>(arr: any[]) => {
+const runChallenge03 = <T>(arr: any[]) => {
 	let cleanArr: T[] = [];
 
 	cleanArr = arr.filter((value) => !!value);
@@ -6,4 +6,4 @@ const runChallange03 = <T>(arr: any[]) => {
 	return cleanArr;
 };
 
-export { runChallange03 };
+export { runChallenge03 };

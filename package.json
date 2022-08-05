@@ -6,7 +6,7 @@
 	"author": "Giovanni Janial <giovannijanial@gmail.com>",
 	"license": "MIT",
 	"scripts": {
-		"dev": "cls && ts-node-dev --watch --respawn --exit-child --transpile-only  src/index.ts"
+		"dev": "ts-node-dev --watch --respawn --exit-child --transpile-only  src/index.ts"
 	},
 	"devDependencies": {
 		"ts-node": "^10.9.1",

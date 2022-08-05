@@ -1,7 +1,7 @@
-const runChallange08 = <T>(arr: T[]) => {
+const runChallenge08 = <T>(arr: T[]) => {
 	const flatArr = arr.flat();
 
 	return flatArr;
 };
 
-export { runChallange08 };
+export { runChallenge08 };

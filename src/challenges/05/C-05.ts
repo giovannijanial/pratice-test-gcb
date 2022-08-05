@@ -1,4 +1,4 @@
-const runChallange05 = <T>(arr: T[], arrFilter: T[]) => {
+const runChallenge05 = <T>(arr: T[], arrFilter: T[]) => {
 	let filteredArr: T[] = [];
 
 	filteredArr = arr.filter((value) => !arrFilter.includes(value));
@@ -6,4 +6,4 @@ const runChallange05 = <T>(arr: T[], arrFilter: T[]) => {
 	return filteredArr;
 };
 
-export { runChallange05 };
+export { runChallenge05 };

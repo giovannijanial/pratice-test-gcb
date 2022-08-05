@@ -1,4 +1,4 @@
-const runChallange06 = <T>(arr: T[]) => {
+const runChallenge06 = <T>(arr: T[]) => {
 	let filteredArr: T[] = [];
 
 	for (const value of arr) {
@@ -10,4 +10,4 @@ const runChallange06 = <T>(arr: T[]) => {
 	return filteredArr;
 };
 
-export { runChallange06 };
+export { runChallenge06 };
