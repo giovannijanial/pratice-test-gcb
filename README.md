@@ -1,7 +1,7 @@
 # Pratice-test GCB.
 > Logic test for the GCB Academy
 
-## :hammer_and_wrench: Resouces
+## :hammer_and_wrench: Resources
 - NodeJS
 - TypeScript
 
